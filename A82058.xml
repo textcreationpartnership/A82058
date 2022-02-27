@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and resolution of divers officers and souldiers under the command of Major General Laughorn, concerning the proceedings of Col. Poyer, Governour of Pembroke Castle in Wales; and their resolution touching his Excellency the Lord Generall. Also another late fight betwixt the forces under command of Col. Poyer, and the Parliament forces belonging to his Excellency the Lord General. And the great danger of Adjutant General Fleming, and divers other gentlemen, by Poyers surrounding them, with their gallant successe thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82058</idno>
+            <idno type="STC">Wing D551</idno>
+            <idno type="STC">Thomason E435_26</idno>
+            <idno type="STC">ESTC R206250</idno>
+            <idno type="EEBO-CITATION">99865424</idno>
+            <idno type="PROQUEST">99865424</idno>
+            <idno type="VID">117664</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117664)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and resolution of divers officers and souldiers under the command of Major General Laughorn, concerning the proceedings of Col. Poyer, Governour of Pembroke Castle in Wales; and their resolution touching his Excellency the Lord Generall. Also another late fight betwixt the forces under command of Col. Poyer, and the Parliament forces belonging to his Excellency the Lord General. And the great danger of Adjutant General Fleming, and divers other gentlemen, by Poyers surrounding them, with their gallant successe thereupon.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London: London [sic] :</pubPlace>
+                  <date>M D CXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poyer, John, d. 1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Pembroke Castle (Wales) --  Siege, 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117664:1"/>
+            <pb facs="tcp:117664:1" rendition="simple:additions"/>
+            <p>THE DECLARATION AND RESOLUTION OF Divers Officers and Souldiers under the command of Major General <hi>Laughorn,</hi> concerning the procee<g ref="char:EOLhyphen"/>dings of Col. <hi>Poyer,</hi> Governour of <hi>Pembroke</hi> Caſtle in <hi>Wales;</hi> And their Reſolution touching his Excellency the Lord Generall.</p>
+            <p>Alſo another late Fight betwixt the Forces under command of Col. <hi>Poyer,</hi> and the Parliament Forces belonging to his Excellency the Lord General.</p>
+            <p>And the great danger of Adjutant General <hi>Fleming,</hi> and di<g ref="char:EOLhyphen"/>vers other Gentlemen, by <hi>Poyers</hi> ſurrounding them, with their gallant ſucceſſe thereupon.</p>
+            <p>
+               <hi>LONDON:</hi> LONDON, Printed for R. W. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117664:2"/>
+            <pb n="1" facs="tcp:117664:2"/>
+            <head>ANOTHER LATE FIGHT BETWIXT The Forces under command of Col. <hi>Poyer,</hi> [and the Parlia<g ref="char:EOLhyphen"/>ments Forces belonging to his Excellency the Lord Generall, neer the Garriſon of Pembroke.</head>
+            <div type="report">
+               <opener>
+                  <salute>Honoured Sir,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">W</seg>E have lately received intelligence of Col. Hor<g ref="char:EOLhyphen"/>tons advance towards Pembroke Caſtle, with a gallant party of Horſe, and it is ſaid he will be there within few dayes, We dayly expect the comming up of the other Forces deſigned for the ſaid ſervice, which if ſpeedily performed, will be the only means of bringing Poyer and his Confederates under ſubjection and feat.</p>
+               <p>There hath lately been another Fight betwixt the Enemy,
+<pb n="2" facs="tcp:117664:3"/>and the Briſtol Forces belonging to Col. Overton, within three or four miles of Pembroke town, which conflict con<g ref="char:EOLhyphen"/>tinued not long, by reaſon our Forces were over-powred, yet they defended themſelves with ſuch Heroick and unanimous ſpirits, (although very deeply ingaged) that they denyed to yeild, unleſſe upon honourable terms and conditions, which terms, after ſome diſpute, were granted them, as will appear by the incloſed paper. The Enemy came down with a ſtrong party of Horſe and Foot, and thought to have ſurprized them in their quarters, but by the great vigilancy of the Bri<g ref="char:EOLhyphen"/>ſtol party, they were timely diſcovered, and gallantly repul<g ref="char:EOLhyphen"/>ſed; for further ſatisfaction whereof, I ſhal refer you to the incloſed.</p>
+            </div>
+            <div type="report">
+               <opener>
+                  <salute>Worthy Sir,</salute>
+               </opener>
+               <p>THe miſeries of the destroyed County of Pembroke doe very much increaſe. This Evening a Veſsell arived here that came yeſter<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay morning out of <hi>Milford</hi> and brings newes that <hi>Poyer is near 500. ſtrong in Foot,</hi> and that Captain <hi>Addis Troop,</hi> one other Troop of Major Generall Laughorns horſe, are fallen in to him, which amounts to about <hi>100.</hi> he is dayly raiſing more Forces both of Horſe and Foot, and to that end doth frequently muster the Country into Pembroke town, who do out of pure feare obey him, and do<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h make very full appearances before him, with Bils, Holberts, and ſuch other weapons as they can get, and out of them vpon Satterday laſt he preſſed <hi>100.</hi> men, beſides what hee hath preſsed ſince in the Country, he hath ſeſſed all the Country Pariſhes about him to a tax, neer trible as much on any pariſh as the three moneths Seſment for the Army is, which he forceth the Inhabitants to bring into him in money or proviſion<g ref="char:punc">▪</g> or both, &amp; ſuch as do refuſe he threatneth to plunder, hee hath impriſoned Mr. <hi>Lort,</hi> Mr. <hi>Bowen,</hi> and Mr. <hi>Poyer,</hi> with ſeverall others, and made them all pay their ranſomes.</p>
+               <pb n="3" facs="tcp:117664:3"/>
+               <p>On Tueſday last a little before night, the two Companies of ſouldiers that went down by water from <hi>Briſtol,</hi> landed neere <hi>Hentlan</hi> in <hi>Milford,</hi> and on Wedneſday were ſet upon by the two troops of Horſe, and about <hi>100.</hi> Foot of <hi>Poyers</hi> in <hi>Pulchran</hi> Church, and Church-yard, but they maintained the place, and are not taken as the report was, but had conditions upon treaty, to march away with their arms, and are gone to Cardiff, upon en<g ref="char:EOLhyphen"/>gagement not to land again in <hi>Milford.</hi>
+               </p>
+               <p>The ſame day <hi>Poyer</hi> beſet Hentlau houſe, where was Mr. <hi>White,</hi> Mr. <hi>Roger Lort,</hi> Adjutant Generall <hi>Flemming,</hi> Mr. <hi>John Lort,</hi> and ſeverall other Commiſſioners and Gentlemen that were met together, about the accommodating and quartering of the new landed ſouldiers, all of them are and was in great danger of taking, but they alſo by a stratagem eſcaped, and are got on ſhip-boord.</p>
+               <p>One <hi>Butler</hi> a Colonell of the Kings Army, a grand Malig<g ref="char:EOLhyphen"/>nant, commanded the Foot that were about the Houſe, and had provided bars of Iron, ſledges, and other inſtruments, for the breaking open of the doors of the houſe.</p>
+               <p>By this, and what hath formerly been certified, you may ſee the ſetled reſolution and activeneſse of <hi>Poyer,</hi> and his adherents to raiſe a new war, which I am confident will grow to ſuch a head on a ſudden, if not timely prevented, in thoſe malignant and diſ<g ref="char:EOLhyphen"/>contented parts, as will not eaſily be overcome.</p>
+               <p>
+                  <hi>The disbanding of Maj. Gen.</hi> Laughorns <hi>Forces goes on very ſucceſſefully and peaceably. The ſeveral Companies and Troops disbanded, being as followeth.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>Col,</hi> Lewis Foot <hi>his Company.</hi>
+                  </item>
+                  <item>
+                     <hi>Cap.</hi> Jones <hi>troop.</hi>
+                  </item>
+                  <item>
+                     <hi>Cap.</hi> Lloyds <hi>troop.</hi>
+                  </item>
+                  <item>
+                     <hi>Col.</hi> Lewis <hi>troop.</hi>
+                  </item>
+                  <item>
+                     <hi>Capt.</hi> Griffiths <hi>troope of Dra<g ref="char:EOLhyphen"/>goons.</hi>
+                  </item>
+                  <item>
+                     <hi>Cap.</hi> Thomas Vaughans <hi>troop.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>All theſe ſhewed a willingneſſe to obey the Parliaments Orders, notwithſtanding they received Orders from Colonel</hi> Powel <hi>on pain of death to be that day at</hi> Carmarthen, <hi>&amp; bring three dayes proviſion with them, Col.</hi> Horton it is thought by
+<pb n="4" facs="tcp:117664:4"/>this time hath entred <hi>Pembrokeſhire,</hi> and confined <hi>Poyer</hi> to a narrower compaſse then he had. Some troops of Major Gen. Laug<g ref="char:EOLhyphen"/>horns men are gone with him to testifie their fidelity to the parli<g ref="char:EOLhyphen"/>ament against thoſe which revolted, which with ſome others joy<g ref="char:EOLhyphen"/>ned, makes him about <hi>12.</hi> or <hi>1300.</hi> ſtrong. Likewiſe Lieut. Col. <hi>Read</hi> with <hi>8.</hi> Companies of <hi>Col. Overtons</hi> Regiment, are marched after, very well appointed, and at the coming away of the last Meſſenger, were as far as Cardiff.</p>
+               <p>
+                  <hi>Poyer</hi> as yet hath but very few Horſe, nor is not able to keepe the field, but will be again ſufficiently penned up in the Caſtle, up<g ref="char:EOLhyphen"/>on the appearance of the additional Forces ſent down.</p>
+               <closer>
+                  <dateline>
+                     <hi>Brecon.</hi> 
+                     <date>
+                        <hi>April 8. 1648.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="report">
+               <head>The Copy of another Letter from the <hi>Weſt.</hi>
+               </head>
+               <opener>
+                  <salute>Worthy Sir,</salute>
+               </opener>
+               <p>OVr troubles here are great, Poyer and the Welſh-men ſtill continue their inſolent carriage, and that they have ſecured moſt of the Committee whom they took. But there are ſhips come into the Harbour to block them up, and to prevent the comming of any reliefe unto them. The number of the Rebels are not ſo great as is reported. Their whole Body doth not amount to a thouſand, although it it is rumou<g ref="char:EOLhyphen"/>red they are at the leaſt four or fiue thouſand ſtrong. The In<g ref="char:EOLhyphen"/>habitants adjacent are very much incenſed againſt them, by reaſon of their great burthens and oppreſſures, occaſioned by their preſent plundering both of proviſion, Goods, and Chat<g ref="char:EOLhyphen"/>tel: Poyer hath declared the grounds and reaſon of his pre<g ref="char:EOLhyphen"/>ſent Engagement, and entertaines all that comes to him: hee hath ſummoned in the Inhabitants in thoſe parts.</p>
+               <closer>
+                  <dateline>
+                     <hi>Bristol</hi> 
+                     <date>9. <hi>April.</hi> 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="report">
+               <pb n="5" facs="tcp:117664:4"/>
+               <head>A Letter ſent from the City of <hi>Briſtol,</hi> touching the reſolution and proceedings of Col. <hi>Poyer.</hi>
+               </head>
+               <opener>
+                  <salute>Noble Sir,</salute>
+               </opener>
+               <p>THe affairs here are in a very ſad condition, our feares dayly increaſe, and the Country is divided; for the ma<g ref="char:EOLhyphen"/>lignant party gives out high ſpeeches, and divers of the Ca<g ref="char:EOLhyphen"/>valry reſorts to Pembroke Caſtle, for the aſſiſtance of col. Poyer, and it is to be feared, they wil very much indanger the publique peace of theſe Counties, and prove a great ob<g ref="char:EOLhyphen"/>ſtruction to the proceedings of Parliament, &amp;c. Their num<g ref="char:EOLhyphen"/>bers increaſe, but not to that heigh as is reported, although it be rumoured that they are 4. or 5000. ſtrong, but I can aſſure you to the contrary, that they do not conſiſt of above 8. or 900. Horſe and Foot, and divers of them ſlightly ar<g ref="char:EOLhyphen"/>med, the greateſt part of them are ſuch who its thought will hardly change many blows.</p>
+               <p>We do alſo further heare, that the Forces deſigned by his Excellency the Lord General are upon their march, Colonel <hi>Horton</hi> (we heare) is upon his march, as alſo Sir <hi>Hardreſse Waller,</hi> and Col. <hi>Okey,</hi> with their Regiments. The Country-men are ſummoned in to Pembroke, but upon what occaſion we know not, unleſſe it be to fortifie the town, which is very probable.</p>
+               <p>We dayly expect Col. <hi>Horton</hi> with his Regiment, who (its ſaid) is upon his advance towards Pembroke, for the blocking up of the inſolent Revels; but we are informed, that the cauſe of his ſo long ſtay, is, becauſe hee expects a Randeavouz with the reſt of the Forces appointed for that ſervice, which is all at preſent, from</p>
+               <closer>
+                  <dateline>
+                     <hi>Briſtol</hi> 
+                     <date>9. <hi>of April</hi> 1648.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your moſt obliged Servant,</hi> James Gibſon.</signed>
+               </closer>
+            </div>
+            <div type="report">
+               <pb n="6" facs="tcp:117664:5"/>
+               <head>Poſtſcript.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>VPon the cloſe of this Letter here arrived a Gentleman from Cardiff, who doth aſſure us, that the greateſt part of Major General <hi>Laughorns</hi> Forces have ſubſcribed to a Declaration, wherein they proteſt againſt any confedera<g ref="char:EOLhyphen"/>cy or complyance with <hi>Poyer</hi> and his Confederates in this a<g ref="char:EOLhyphen"/>ction, and that ſuch of their Souldiers as have or ſhal goe in to him, they have and will look upon as Enemies and diſtur<g ref="char:EOLhyphen"/>bers of the peace of the Kingdom, and that they are reſolved and ready to aid and aſſiſt his Excellency the Lord General againſt any party or parties whatſoever.</p>
+               <p>By all this, yet we hope this ſtorme in Wales ſo much heightned by Malignants will ſuddenly be blown over, and their malignant expectations to engage a new War in thoſe parts fruſtrated.</p>
+               <closer>
+                  <dateline>
+                     <hi>Briſtol</hi> 
+                     <date>
+                        <hi>April</hi> 9. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
